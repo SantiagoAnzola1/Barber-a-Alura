@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LibreriaAudio"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EditorEtiquetas"/>
+	<classpathentry kind="lib" path="librerias/Jaudiottager/jaudiotagger-2.2.6-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/jl1.0.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="librerias/Javazoom/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
