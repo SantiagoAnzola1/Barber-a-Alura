@@ -1,7 +1,5 @@
-# Reproductor-MP3
+# :minidisc: Reproductor MP3
 
-
-#  :closed_lock_with_key: Encriptador de texto 
 ![image]()
 <p align="center">
   | <a href=READMEEN.md>English</a> | 
@@ -10,20 +8,22 @@
 <br>
 
 ## :hammer_and_wrench: Lenguajes y herramientas:
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <br>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/bc6149f4-bf84-4785-87ba-35529dd5917f" alt="java"  height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/1198e7f0-a392-4312-8ca5-8a3c57acc68e" alt="java"  height="40"/> </a>
+
+
+</p>
 
 
 ## :page_with_curl: Descripción:
-<p>Este proyecto se llevo a cabo mediante un "Challenge" planteado por el curso HTML, CSS, JAVASCRIPT de Oracle.</p>
+<p>A traves de este proyecto se busca desarollar un un reproductor mp3 en java el cual sea capaz de añadir, eliminar y buscar canciones a voluntad del usuario, además de tener los botones estándar de cualquier reproductor mp3, como adelantar, atrasar y pausar/reproducir.</p>
 
-
-
-Durante este desafio se desarrollo una aplicación que encripta textos, además cuenta diseño web adapativo para cualquier tamaño de pantalla.
-
-:key:Las "llaves" de encriptación que se utilizaron fueron las siguientes:
-
-- La letra "e" es convertida para "enter"
-- La letra "i" es convertida para "imes"
+Se hizo uso de los siguintes conceptos:
+- Listas circulares doblemente enlazadas.
+- Encapsulamiento. 
 - La letra "a" es convertida para "ai"
 - La letra "o" es convertida para "ober"
 - La letra "u" es convertida para "ufat"
