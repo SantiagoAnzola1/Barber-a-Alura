@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <a  href="https://youtu.be/2zjv0GWvaXI" target="_blank" rel="noreferrer">
+  <a  href="https://youtu.be/2zjv0GWvaXI" target="_blank" rel="noopener">
   <img width="75%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/134959710/250427828-9b8e0184-3a7e-41cc-b52b-b13461e3736c.png"/>
 </a>
 
