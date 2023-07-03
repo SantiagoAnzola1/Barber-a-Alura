@@ -32,10 +32,11 @@
   - Interfaz gráfica de Java.
   - Uso de librerias externas (JavaZoom, Audiotagger).
   - Manejo de excepciones. 
-## :hammer_and_wrench: Previsualización rápida:
+## :eyes: Previsualización rápida:
+
 | Cargar | Eliminar | Buscar |
 | ------------- | ------------- | ------------- |
-| <img height="200px " src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/14eea1ed-e2d8-4d87-8f4c-b8a5b8fb9ea0" /> | <img  height="200px" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/6c242a07-0e4a-4d1b-b362-4ad50793298d" />  | <img  height="200px" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/43dabb5d-0f7a-4684-b256-fa95372432ce" /> |
+| <img width="100%" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/14eea1ed-e2d8-4d87-8f4c-b8a5b8fb9ea0" /> | <img  width="100%" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/6c242a07-0e4a-4d1b-b362-4ad50793298d" />  | <img  width="100%" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/43dabb5d-0f7a-4684-b256-fa95372432ce" /> |
 
 
 ## :scroll: Requisitos:
@@ -43,6 +44,12 @@
 - [x] Debe contar con botones estandar de reproductor como adelantar, atrasar y pausar/reproducir.
 - [x] Debe ser posible cargar tanto canciones en carpetas como en archivo individual.
 - [x] Las canciones cargadas se deben enlistar.
+- [x] Se puede controlar con las flechas :arrow_left: :arrow_right: (atrasar y adelantar canción)y la barra espaciadora <img height="20px" width="20px" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/230a1260-5c33-4ca1-99f1-a83c71e0e891" />  (pausar/reproducir).
 
-## :link: Pagina:
-👉 <a href="https://santiagoanzola1.github.io/Encriptador/">Visualiza mi proyecto</a> 	:point_left:
+
+
+## :movie_camera: Video de explicación y funcionamiento:
+<video src="https://youtu.be/2zjv0GWvaXI" width="640" height="480"/>	
+
+
+
