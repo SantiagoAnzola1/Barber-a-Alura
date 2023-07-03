@@ -47,9 +47,17 @@
 - [x] Se puede controlar con las flechas :arrow_left: :arrow_right: (atrasar y adelantar canción)y la barra espaciadora <img height="20px" width="20px" src="https://github.com/SantiagoAnzola1/Reproductor-MP3/assets/134959710/230a1260-5c33-4ca1-99f1-a83c71e0e891" />  (pausar/reproducir).
 
 
-
 ## :movie_camera: Video de explicación y funcionamiento:
-<video src="https://youtu.be/2zjv0GWvaXI" width="640" height="480"/>	
+
+
+<p align="center">
+  <a  href="https://youtu.be/2zjv0GWvaXI" target="_blank" rel="noreferrer">
+  <img width="75%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/134959710/250427828-9b8e0184-3a7e-41cc-b52b-b13461e3736c.png"/>
+</a>
+
+</p>
+
+
 
 
 
